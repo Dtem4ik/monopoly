@@ -1,0 +1,98 @@
+"cards":[
+    {
+       "id":1,
+       "name":"Новосибирск",
+       "pay":"240k",
+       "group":"yellow",
+       "pays":[
+          {
+             "name":"С 1 домом",
+             "price":"1,2m"
+          },
+          {
+             "name":"С 2 домом",
+             "price":"3,6m"
+          },
+          {
+             "name":"С 3 домом",
+             "price":"8,5m"
+          },
+          {
+             "name":"С 4 домом",
+             "price":"10,25m"
+          },
+          {
+             "name":"С ОТЕЛЕМ",
+             "price":"12m"
+          }
+       ],
+       "price":2800000,
+       "sell":"1,4m",
+       "house":"1,5m",
+       "zalog":true
+    },
+    {
+       "id":2,
+       "name":"Сыктывкар",
+       "pay":"160k",
+       "group":"orange",
+       "pays":[
+          {
+             "name":"С 1 домом",
+             "price":"800k"
+          },
+          {
+             "name":"С 2 домом",
+             "price":"2,2m"
+          },
+          {
+             "name":"С 3 домом",
+             "price":"6m"
+          },
+          {
+             "name":"С 4 домом",
+             "price":"8m"
+          },
+          {
+             "name":"С ОТЕЛЕМ",
+             "price":"10m"
+          }
+       ],
+       "price":2000000,
+       "sell":"1m",
+       "house":"1m",
+       "zalog":false
+    },
+    {
+       "id":3,
+       "name":"Екатеринбург",
+       "pay":"500k",
+       "group":"blue",
+       "pays":[
+          {
+             "name":"С 1 домом",
+             "price":"2m"
+          },
+          {
+             "name":"С 2 домом",
+             "price":"6m"
+          },
+          {
+             "name":"С 3 домом",
+             "price":"14m"
+          },
+          {
+             "name":"С 4 домом",
+             "price":"17m"
+          },
+          {
+             "name":"С ОТЕЛЕМ",
+             "price":"20m"
+          }
+       ],
+       "price":4000000,
+       "sell":"2m",
+       "house":"2m",
+       "zalog":false
+    }
+ ]
