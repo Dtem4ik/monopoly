@@ -20,7 +20,7 @@
     "node-sass": "^6.0.1",
     "nuxt": "^2.15.7",
     "sass-loader": "10",
-    "vue-qrcode-reader": "^3.0.6"
+    "vue-qrcode-reader": "^3.1.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.7",
